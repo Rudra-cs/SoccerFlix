@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29675194309",
+    "project_id": "flash-goals",
+    "storage_bucket": "flash-goals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29675194309:android:bf872e6344e1c5ed8c2dac",
+        "android_client_info": {
+          "package_name": "com.rudra.flashgoalsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29675194309-kjng2b1r6pr65hdllfb1gv6eursl6fkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcqxJH3hIAYe9w8dBpKn2qDvxAa_ZCqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29675194309-kjng2b1r6pr65hdllfb1gv6eursl6fkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

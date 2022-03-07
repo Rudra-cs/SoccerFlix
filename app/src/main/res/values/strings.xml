@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Flash Goals Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Upload">Upload</string>
+    <string name="Data">All Data</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="text_desc">"lorem ipsum lorem ipsumllorem ipsum lorem ipsumlorem ipsumlorem ips ipsumlororem ipsumlorem ipsumlorem
+        ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem  "</string>
+    <string name="Preview">Preview</string>
+    <string name="title_thumbnail">Title of the headline of the story of the football. Title of the headline of the story.  </string>
+    <string-array name="tab_array">
+        <item>@string/Upload</item>
+        <item>@string/Data</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Recent</item>
+        <item>Transfer</item>
+        <item>Match Preview</item>
+        <item>UCL</item>
+        <item>World Cup</item>
+        <item>Misc</item>
+    </string-array>
+</resources>
